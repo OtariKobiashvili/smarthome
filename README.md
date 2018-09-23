@@ -1,1 +1,1 @@
-#Smart Home Blog
+# Smart Home Blog
