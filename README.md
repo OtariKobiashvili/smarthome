@@ -47,7 +47,7 @@ Navigate to this folder: `/Applications/MAMP/htdocs/smarthome/wp-content/themes`
 
 You will see three other themes here, twentyfifteen, twentyseventeen, twentysixteen.
 
-Clone this repo `git clone https://github.com/OtariKobiashvili/smarthome.git`, or Download it as a ZIP.
+Clone this repo `git clone git@github.com:OtariKobiashvili/smarthome.git`, or Download it as a ZIP.
 
 Make sure that you put it into the *themes* folder, under the name smarthome.
 
