@@ -62,7 +62,8 @@ Next:
 Navigate to this folder inside your terminal `/Applications/MAMP/htdocs/homekit/wp-content/themes/smarthome`
 
 1. Open in VSC(we will only use this) `code .`.
-2. Run Gulp. `gulp`.
+2. Install Node Modules `npm install`.
+3. Run Gulp. `gulp`.
 
 This will open a new window that is a proxy of the inital localhost:8888 site. All changes to PHP and JS will reload the page. All changes to SCSS will stream and update on page.
 
