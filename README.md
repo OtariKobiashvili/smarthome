@@ -63,7 +63,7 @@ Navigate to this folder inside your terminal `/Applications/MAMP/htdocs/homekit/
 
 1. Open in VSC(we will only use this) `code .`.
 2. Install Node Modules `npm install`.
-3. Run Gulp. `gulp`.
+3. Run Gulp. `npm run gulp`.
 
 This will open a new window that is a proxy of the inital localhost:8888 site. All changes to PHP and JS will reload the page. All changes to SCSS will stream and update on page.
 
